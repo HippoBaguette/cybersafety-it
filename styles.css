@@ -17,6 +17,10 @@ ul {
     left: 0;
     width: 100%;
 }
+.navbar{
+  overflow: hidden;
+  position: fixed;
+}
 
 li {
     float: left;
