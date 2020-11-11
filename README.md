@@ -1,6 +1,3 @@
-# hippobaguette.github.io
+# Cybersafety
 
-dont read me.
-
-
-read the website
+it stuff
