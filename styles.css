@@ -19,10 +19,6 @@ a{
   color: black;
 }
 
-.navbar a.active {
-  background-color: #4CAF50;
-  color: white;
-}
 .navbar {
   position: fixed;
   top: 0;
