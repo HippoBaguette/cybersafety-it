@@ -10,7 +10,7 @@ a{
 pre{
   font-family: 'Roboto', sans-serif;
 }
-ul {
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -50,5 +50,5 @@ html {
 }
 .cat{
   padding-left: 50%;
-  
+
 }
